@@ -1,2 +1,12 @@
 hi hello this is vijay
 i am from tamilnadu
+git add .
+git commit -m "msg"
+git pull
+git push
+git branch [branchname]
+git merge 
+git rebase
+git checkout
+PS D:\Learning_Git> git config --global user.name "Vijay"
+PS D:\Learning_Git> git config --global user.email "vijayarajur31@gmail.com"
